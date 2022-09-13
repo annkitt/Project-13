@@ -17,6 +17,6 @@
     -5 Hours taken to Complete it.
 
 ### ScreenShot
-![Desktop](./ScreenShot/13o.png)
-![Desktop](./ScreenShot/13t.png)
-![Desktop](./ScreenShot/13th.png)
+![Desktop](./Screenshot/13o.png)
+![Desktop](./Screenshot/13t.png)
+![Desktop](./Screenshot/13th.png)
