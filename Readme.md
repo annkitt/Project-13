@@ -7,7 +7,7 @@
 ![Html ,Css](https://img.shields.io/badge/html-%20Css-yellowgreen)
 ![Hitesh Choudhary](https://img.shields.io/badge/Hitesh-Choudhary-lightgrey)
 
-## Project 13 [Live link]()
+## Project 13 [Live link](https://saaspagee.netlify.app/)
 
 - Skills Gained in this project 
     - Learned to create and use css variables in this project.
@@ -18,5 +18,3 @@
 
 ### ScreenShot
 ![Desktop](./Screenshot/13o.png)
-![Desktop](./Screenshot/13t.png)
-![Desktop](./Screenshot/13th.png)
